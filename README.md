@@ -11,8 +11,8 @@ Python and Java applications portfolio
 * The data cleansing is achieved with using the Pandas API, of Python.
 * Part of series of Uni assignments.
 
-![](https://github.com/bebeto1914/Konstantinos_Portfolio/blob/main/Images/Figure_1.png)
+![](Images/Figure_1.png)
 
-![](https://github.com/bebeto1914/Konstantinos_Portfolio/blob/main/Images/Figure_3.png)
+![](Images/Figure_3.png)
 
-![](https://github.com/bebeto1914/Konstantinos_Portfolio/blob/main/Images/Figure_5.png)
+![](Images/Figure_5.png)

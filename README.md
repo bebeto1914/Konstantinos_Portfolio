@@ -12,3 +12,7 @@ Python and Java applications portfolio
 * Part of series of Uni assignments.
 
 ![](https://github.com/bebeto1914/Konstantinos_Portfolio/blob/main/Images/Figure_1.png)
+
+![](https://github.com/bebeto1914/Konstantinos_Portfolio/blob/main/Images/Figure_3.png)
+
+![](https://github.com/bebeto1914/Konstantinos_Portfolio/blob/main/Images/Figure_5.png)

@@ -1,5 +1,4 @@
-# Konstantinos Portfolio
-Python and Java applications portfolio
+# Kostas' Portfolio
 
 # [Project 1: Java Coinsorter](https://github.com/bebeto1914/Java_Coinsorter)
 * Created a coin denominations application that enables the user to check how many coins of a certain denomination can be exchanged given an input value.

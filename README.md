@@ -1,6 +1,6 @@
 # Kostas' Portfolio
 
-#[Typical MVC Web Application in C#](https://github.com/bebeto1914/MVC_Web_Application)
+# [Typical MVC Web Application in C#](https://github.com/bebeto1914/MVC_Web_Application)
 * Created a CRUD web application using ASP.NET framework using C# language.
 * The web application contains 5 scientific questions and their relevant answers, with the end user being able to register and add their own questions and answers in the database.
 * Contains Authorization attributes, to disable non-registered users from making any CRUD actions in the database.
